@@ -7,7 +7,7 @@
 .btn-secondary,
 .btn-secondary:hover {
   color: #FAB750;
-  background-color: #373b3e;
+  background-color: #330033;
 }
 
 .btn-secondary:focus {
@@ -31,15 +31,6 @@ body {
   background-size: cover;
 }
 
-
-.card-body {
-  background-color: #fadcac;
-}
-
-.card-text {
-  color:#373b3e;
-  background-color: #fadcac;
-}
 .cover-container {
   max-width: 42em;
 }
